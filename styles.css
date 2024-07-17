@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
-  background-image: url('images/background.png'); 
+  background-image: url('background.png'); 
   background-size: cover;
   background-position: center; 
 }
@@ -58,4 +58,12 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
   background-color: #23527c;
+}
+
+.background {
+  height: 100vh; /* or any specific height you need */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
