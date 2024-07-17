@@ -47,6 +47,11 @@ input[type="submit"] {
   cursor: pointer;
 }
 
+.logo {
+  max-width: 20%; /* Adjust the percentage to your liking */
+  height: auto;
+}
+
 input[type="submit"]:hover {
   background-color: #23527c;
 }
