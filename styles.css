@@ -50,6 +50,7 @@ input[type="submit"] {
 .logo {
   max-width: 20%; /* Adjust the percentage to your liking */
   height: auto;
+  margin: 0 auto; /* Center the logo */
 }
 
 input[type="submit"]:hover {
