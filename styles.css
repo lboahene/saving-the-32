@@ -1,9 +1,9 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
-  background-image: url('background.png'); /* Add this line */
-  background-size: cover; /* Add this line to scale the image */
-  background-position: center; /* Add this line to center the image */
+  background-image: url('images/background.png'); 
+  background-size: cover;
+  background-position: center; 
 }
 
 ul {
