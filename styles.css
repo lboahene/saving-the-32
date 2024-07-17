@@ -1,12 +1,6 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
-  background-image: url('background.jfif'); 
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed; 
-  height: 100vh; 
-  margin: 0;
 }
 
 ul {
